@@ -1,9 +1,4 @@
 <?php
-/*
-Name: 			Contact Form
-Written by: 	Okler Themes - (http://www.okler.net)
-Theme Version:	9.9.3
-*/
 
 namespace PortoContactForm;
 
